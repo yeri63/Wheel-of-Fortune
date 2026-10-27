@@ -4,7 +4,7 @@
 ![Screenshot of Wheel of Fortune](https://github.com/yeri63/Wheel-of-Fortune/blob/master/wheel.png)
 </div>
 <p>Play the TV game Wheel of Fortune on a Cisco IP Phone. All the puzzles are song titles from popular films or artists my daughters enjoy. To help come up with the title and what letters to guess, a hint with the film or artist is shown when the game begins.</p>
-<p>Here's a sample of a few of the puzzles hidden within this game...</p>
+<p>Here's some of the puzzles hidden within the game...</p>
 <div align="center">
 
 Genre | Title/Artist | Song/Puzzle
@@ -16,7 +16,7 @@ Musical | Epic | Ruthlessness is mercy upon ourselves.
 K-Pop | Black Pink | When we pull up, you know it's a shutdown.
 </div>
 
-To Play:
+How to Play:
 
 1. Note the Hint to give you an idea of the song title hidden on the board. This will get easier as more letters are revealed during game play.
 2. The player must spin the wheel to start the game.
