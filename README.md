@@ -1,7 +1,7 @@
 # Wheel of Fortune
 <div align="center">
   
-![Screenshot of Wheel of Fortune](https://github.com/yeri63/Wheel-of-Fortune/blob/master/wheel.png)
+![Screenshot of Wheel of Fortune](wheel.png)
 </div>
 <p>Play the TV game Wheel of Fortune on a Cisco IP Phone. All the puzzles are song lyrics from popular films or artists my daughters enjoy. To help come up with the phrase and what letters to guess, a hint with the film or artist is shown when the game begins.</p>
 <p>Here's a few of the puzzles hidden within the game...</p>
